@@ -40,7 +40,7 @@
 - 🥇 **Winner, IPL Strategy Competition**, BIZCON'24, SCMS Symbiosis: data-driven strategy built with Python
 - 🥇 **Winner, Techno Trivia**, Shaheed Rajguru College: inter-college science and technology quiz
 - 🏅 **Top 16 nationally, NexHack Hackathon**: built a project for problems faced by farmers
-- 🎯 2× hackathon winner, 3× hackathon finalist · 9.00/10 CGPA
+- 🎯 2× hackathon winner, 3× hackathon finalist
 
 ## 🚀 Featured Projects:
 
