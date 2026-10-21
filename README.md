@@ -34,6 +34,14 @@
 | [PecanProject/sipnet](https://github.com/PecanProject/sipnet) | [Update leaf on/leaf off mechanics documentation](https://github.com/PecanProject/sipnet/pull/378) | ✅ Merged |
 | [ccmmf/cal-val-data](https://github.com/ccmmf/cal-val-data) | [Update Salinas SOC stocks for White et al. (2024) correction](https://github.com/ccmmf/cal-val-data/pull/10) | ✅ Merged |
 
+## 🏆 Achievements:
+
+- 🥇 **Winner, BioMed Bharat 2026** (GITAM): first place in a national-level biomedical device innovation hackathon
+- 🥇 **Winner, IPL Strategy Competition**, BIZCON'24, SCMS Symbiosis: data-driven strategy built with Python
+- 🥇 **Winner, Techno Trivia**, Shaheed Rajguru College: inter-college science and technology quiz
+- 🏅 **Top 16 nationally, NexHack Hackathon**: built a project for problems faced by farmers
+- 🎯 2× hackathon winner, 3× hackathon finalist · 9.00/10 CGPA
+
 ## 🚀 Featured Projects:
 
 - **[SAMVEDNA](https://github.com/priyanshusky0/samvedna)**: disaster and hazard analytics platform pulling from 5 public APIs (NASA FIRMS, USGS, GDELT...) across 10 Indian states, with anomaly detection and a live Leaflet dashboard. `FastAPI` `PostgreSQL` `Docker`
