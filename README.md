@@ -8,6 +8,7 @@
 
 ## 🌐 Socials:
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-1f3329?style=flat&logo=vercel&logoColor=white)](https://portfolio-xi-ebon-27.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-kumar-58b095325)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:priyanshu.student18@gmail.com)
 
