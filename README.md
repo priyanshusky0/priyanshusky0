@@ -26,14 +26,6 @@
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-## 🔧 Open Source Contributions:
-
-| Project | Contribution | Status |
-| --- | --- | --- |
-| [PecanProject/sipnet](https://github.com/PecanProject/sipnet) | [Make carbon and nitrogen balance failures fatal](https://github.com/PecanProject/sipnet/pull/414) | 🟡 In review |
-| [PecanProject/sipnet](https://github.com/PecanProject/sipnet) | [Document units as they appear in input files](https://github.com/PecanProject/sipnet/pull/392) | ✅ Merged |
-| [PecanProject/sipnet](https://github.com/PecanProject/sipnet) | [Update leaf on/leaf off mechanics documentation](https://github.com/PecanProject/sipnet/pull/378) | ✅ Merged |
-| [ccmmf/cal-val-data](https://github.com/ccmmf/cal-val-data) | [Update Salinas SOC stocks for White et al. (2024) correction](https://github.com/ccmmf/cal-val-data/pull/10) | ✅ Merged |
 
 ## 🏆 Achievements:
 
