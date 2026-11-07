@@ -2,10 +2,11 @@
 
 👋 Hi, I'm Priyanshu<br>
 🎓 B.Tech. IT & Mathematical Innovation at Cluster Innovation Centre, University of Delhi<br>
-🧠 AI Engineer Intern at Sugar360, building RAG systems for doctors and clinicians<br>
-🌱 Open source contributor to ecosystem modelling projects: [SIPNET](https://github.com/PecanProject/sipnet) and [cal-val-data](https://github.com/ccmmf/cal-val-data)<br>
 🏆 Winner, BioMed Bharat 2026 (national-level biomedical device hackathon) <br>
-🏆 Winner, CODEARAMBH 2.0 👻  24-hour offline National hackathon
+🏆 Winner, CODEARAMBH 2.0 👻  24-hour offline National hackathon <br>
+🧠 AI Engineer Intern at Sugar360, building RAG systems for doctors and clinicians<br>
+🌱 Open source contributor
+
 
 
 ## 🌐 Socials:
