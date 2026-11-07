@@ -33,6 +33,7 @@
 ## 🏆 Achievements:
 
 - 🥇 **Winner, BioMed Bharat 2026** (GITAM): first place in a national-level biomedical device innovation hackathon
+- 🥇 **Winner, CODEARAMBH 2.0 👻**  24-hour offline National hackathon 
 - 🥇 **Winner, IPL Strategy Competition**, BIZCON'24, SCMS Symbiosis: data-driven strategy built with Python
 - 🥇 **Winner, Techno Trivia**, Shaheed Rajguru College: inter-college science and technology quiz
 - 🏅 **Top 16 nationally, NexHack Hackathon**: built a project for problems faced by farmers
